@@ -39,16 +39,11 @@
           
 </div>
 
-
-
-###
-<h3 align="left">🔥 My Stats</h3>
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=christy-ly&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<h3 align="left">👾 My Stats</h3>
+<div >
+  <img src="https://streak-stats.demolab.com?user=christy-ly&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="180" alt="Github streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/christy-ly?theme=light&font=Arima%20Madurai" height="180" alt="Leetcode streak graph"  />
 </div>
-
-###
 
 <h3 align="left">📨 Let's Connect</h3>
 <p align="left">
