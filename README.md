@@ -31,7 +31,7 @@
 ## 💻 Projects & Demos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christy-ly&repo=nature-walks)](https://github.com/christy-ly/nature-walks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christy-ly&repo=hotel-x)](https://github.com/christy-ly/hotel-x)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christy-ly&repo=hotel-x-manager)](https://github.com/christy-ly/hotel-x-manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christy-ly&repo=lingo-buddy)](https://github.com/christy-ly/lingo-buddy)
 
 ## 📊 Stats  
